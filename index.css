@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://www.reisereporter.de/resizer/KljLvuJsyfHMUxfnNShFuG9usOU=/894x596/filters:quality(70):format(webp)/cloudfront-eu-central-1.images.arcpublishing.com/madsack/KMVHZ4YMIBEW5NXZMGPN6S66SI.jpg");
+    background-size: cover;
+    font-family: Ubuntu, Oxygen, 'Segoe UI', BlinkMacSystemFont, -apple-system, Roboto, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+div {
+    max-width: 80%;
+    margin: auto;
+    text-align: center;
+    border-radius: 25px;
+    padding: 10px;
+    background: rgba(248, 249, 200, 0.85);
+    box-shadow: 0 0 10px #1B2021;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #1B2021;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #EF767A;
+}
+
+#save-btn {
+    background: #7D7ABC;
+}
+
